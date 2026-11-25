@@ -1,0 +1,56 @@
+{
+  "saetze": [
+    {
+      "slug": "digitalitaet-ressourcen-im-unterricht",
+      "titel": "Digitale und analoge Ressourcen im Unterricht"
+    },
+    {
+      "slug": "digitalitaet-eigene-ressourcen",
+      "titel": "Eigene Ressourcen in einer Kultur der Digitalität"
+    },
+    {
+      "slug": "halbzeitgespraech",
+      "titel": "Halbzeitgespräch"
+    },
+    {
+      "slug": "ki-reifegrad-meiner-schule",
+      "titel": "KI-Reifegrad meiner Schule"
+    },
+    {
+      "slug": "kennenlernen-gruppenstart",
+      "titel": "Kennenlernen und Gruppenstart"
+    },
+    {
+      "slug": "ki-in-der-eigenen-praxis",
+      "titel": "Künstliche Intelligenz in der eigenen Praxis"
+    },
+    {
+      "slug": "lernbegleitung",
+      "titel": "Lernbegleitung"
+    },
+    {
+      "slug": "loesungsorientierung",
+      "titel": "Lösungsorientierung"
+    },
+    {
+      "slug": "persoenliche-staerken",
+      "titel": "Persönliche Stärken"
+    },
+    {
+      "slug": "rueckblick-lerneinheit",
+      "titel": "Rückblick auf eine Lerneinheit"
+    },
+    {
+      "slug": "standortbestimmung-churermodell",
+      "titel": "Standortbestimmung Churermodell"
+    },
+    {
+      "slug": "beurteilungskultur-nach-den-denkstellen",
+      "titel": "Beurteilungskultur: Nach den DenkStellen"
+    },
+    {
+      "slug": "demo-zum-ausprobieren",
+      "titel": "Demo zum Ausprobieren"
+    }
+  ]
+}
